@@ -8,6 +8,7 @@ import Foot from '@/common/footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
+
 export default function AboutUs() {
   return (
     <>
