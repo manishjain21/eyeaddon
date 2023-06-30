@@ -1,0 +1,23 @@
+{
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/about-us": "pages/about-us.html",
+  "/buying-guide": "pages/buying-guide.html",
+  "/blog": "pages/blog.html",
+  "/cart": "pages/cart.html",
+  "/checkout": "pages/checkout.html",
+  "/contact-lens": "pages/contact-lens.html",
+  "/contact-us": "pages/contact-us.html",
+  "/": "pages/index.html",
+  "/men-eyeglasses": "pages/men-eyeglasses.html",
+  "/privacy-policy": "pages/privacy-policy.html",
+  "/profile": "pages/profile.html",
+  "/sign-in": "pages/sign-in.html",
+  "/sign-up": "pages/sign-up.html",
+  "/product-detail": "pages/product-detail.html",
+  "/terms-conditions": "pages/terms-conditions.html",
+  "/wishlist": "pages/wishlist.html",
+  "/404": "pages/404.html"
+}
