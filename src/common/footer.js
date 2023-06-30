@@ -1,7 +1,6 @@
 import React, { Component, Fragment } from "react";
 import Image from 'next/image'
 
-import styles from '@/styles/Home.module.css'
 
 class Footer extends Component {
   render() {

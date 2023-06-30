@@ -10,25 +10,9 @@ import '@/styles/base.css'
 import '@/styles/globals.css'
 import '@/styles/custom.css'
 
-// import '@/js/modernizr.min.js'
-// import '@/js/jquery.js'
-// import '@/js/popper.min.js'
-// import '@/js/bootstrap.min.js'
-// import '@/js/slick.min.js'
-// import '@/js/js.cookie.js'
-// import '@/js/jquery.style.switcher.js'
-// import '@/js/jquery-ui.min.js'
-// import '@/js/jquery.countdown.min.js'
-// import '@/js/jquery.countdown.min.js'
-// import '@/js/vendor/sal.js'
-// import '@/js/jquery.magnific-popup.min.js'
-// import '@/js/imagesloaded.pkgd.min.js'
-// import '@/js/isotope.pkgd.min.js'
-// import '@/js/counterup.js'
-// import '@/js/waypoints.min.js'
-// import '@/js/main.js'
 
 
+      
 
 
 export default function App({ Component, pageProps }) {
